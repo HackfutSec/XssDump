@@ -1,7 +1,3 @@
-## **README for XssDump**
-
-### Overview
-
 **XssDump** is a Python-based XSS (Cross-Site Scripting) vulnerability scanner designed to test web applications for potential XSS vulnerabilities. The script performs automated testing by injecting payloads into URLs and analyzing HTTP responses to check for the presence of malicious scripts.
 
 - **Author**: Hackfut
